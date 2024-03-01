@@ -79,7 +79,7 @@ a {
 }
 @media (max-width: 860px) {
   .container-imc {
-    width: 70%;
+    width: 90%;
   }
   .container-imc .image {
     display: none;
